@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "calcu-glumy-app",
+    "react-calculator": "calcu-glumy-app"
+  },
+  "targets": {}
+}
